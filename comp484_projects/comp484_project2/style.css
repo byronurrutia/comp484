@@ -1,0 +1,33 @@
+.pet-image {
+  /* width: 75%; */
+  image-rendering: pixelated;
+  padding: 0% 5% 5% 5%;
+}
+
+.bg-img {
+  background-image: url("./assets/bg.gif");
+  image-rendering: pixelated;
+  background-size: cover;
+}
+
+* {
+  font-family: "Silkscreen", cursive;
+}
+
+.img-row,
+.info-row,
+.button-row {
+  padding: 20px 0px 20px 0px;
+}
+
+.volume {
+  margin-top: 10px;
+}
+
+.card {
+  margin: 0 auto;
+}
+
+.status {
+  color: red;
+}
